@@ -118,7 +118,9 @@ cv2.putText(img ,'Lifestyle',(60,70),font,2,(255),5,cv2.LINE_AA)
 plt.imshow(img)
 plt.axis('off')
 ```
-![image](https://github.com/user-attachments/assets/064fa4b0-dcf6-4f3a-aef1-5dfa0d972f43)
+
+![91](https://github.com/user-attachments/assets/c68591bf-640f-48b1-9b10-2062a5d5eee8)
+![93](https://github.com/user-attachments/assets/00526d3a-20d9-4ab0-a371-cf6dcec5ed1a)
 
 # Create the structuring element
 ```
