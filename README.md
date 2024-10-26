@@ -52,7 +52,8 @@ kernel = np.ones((5,5),np.uint8)
 kernel1 = cv2.getStructuringElement(cv2.MORPH_CROSS,(5,5))
 cv2.erode(img,kernel)
 ```
-![alt text](image-1.png)
+![Screenshot 2024-10-26 114403](https://github.com/user-attachments/assets/b8de1154-b574-4aee-9017-fd28629a6e97)
+
 # Erode the image
 ```
 img_erode = cv2.erode(img,kernel1)
